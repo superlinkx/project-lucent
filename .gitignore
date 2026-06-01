@@ -1,0 +1,9 @@
+# Compiled binary
+lucent
+
+# Analysis outputs
+lucent_report.html
+lucent_opengraph.json
+lucent_diagram.c4
+lucent_report.txt
+lucent_route_map.json
