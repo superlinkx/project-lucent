@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/user/lucent/internal/analyzer"
+	"github.com/superlinkx/project-lucent/internal/analyzer"
 )
 
 func TestRunAnalysisReport(t *testing.T) {

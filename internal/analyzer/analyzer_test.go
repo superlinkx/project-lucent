@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/user/lucent/internal/analyzer"
+	"github.com/superlinkx/project-lucent/internal/analyzer"
 )
 
 func TestModuleAnalyzerIntegration(t *testing.T) {

@@ -22,8 +22,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/user/lucent/internal/analyzer"
-	"github.com/user/lucent/internal/exporter"
+	"github.com/superlinkx/project-lucent/internal/analyzer"
+	"github.com/superlinkx/project-lucent/internal/exporter"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/user/lucent
+module github.com/superlinkx/project-lucent
 
 go 1.20
 

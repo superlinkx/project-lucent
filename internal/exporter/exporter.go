@@ -22,7 +22,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/user/lucent/internal/analyzer"
+	"github.com/superlinkx/project-lucent/internal/analyzer"
 )
 
 // OpenGraphNode represents a node in the OpenGraph schema.
